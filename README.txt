@@ -1,5 +1,6 @@
 An animated Octocat hacking away!
 
 Made with Processing written in Java.
-I had written a Brickbreaker game in Processing a year ago and 
-wanted to try to make something new since I enjoy visual art & coding.
+My team member and I have no experience in Processing but we were both
+interested in using Java/Processing to make animations. We decided creating 
+a hacking Octocat would be a great start!
