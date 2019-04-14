@@ -79,4 +79,5 @@ void draw(){
   fill(244, 202, 177);
   rect(185, 117, 40, eyeHeight);
   rect(275, 117, 40, eyeHeight);
+
 }
