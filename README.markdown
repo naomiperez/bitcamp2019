@@ -11,3 +11,5 @@ a hacking Octocat would be a great start!
 Here she is:
 
 ![](https://media.giphy.com/media/XFpMOLWKP8LsOMO6Uq/giphy.gif)
+
+(This is just a gif of the animation; the quality when running it with Processing is much better)
