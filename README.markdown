@@ -2,10 +2,9 @@
 
 An animated Octocat hacking away!
 
-Made with Processing written in Java.
-My team member and I have no experience in Processing but we were both
-interested in using Java/Processing to make animations. We decided creating 
-a hacking Octocat would be a great start!
+Made with Processing library and IDE for Java.
+My team member and I have no experience in programmatic animation but we were both
+interested in using these software tools to make animations. We both have a passion for visual art and coding, so this project was really fun to create.
 
 
 Here she is:
